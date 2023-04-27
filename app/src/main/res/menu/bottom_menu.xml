@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AQIFragment"
+        android:icon="@drawable/baseline_air_24"
+        android:title="AQI" />
+
+    <item
+        android:id="@+id/weatherFragment"
+        android:icon="@drawable/baseline_wb_sunny_24"
+        android:title="Page 2" />
+</menu>
